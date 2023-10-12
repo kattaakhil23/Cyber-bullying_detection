@@ -7,16 +7,16 @@ Bullying has been prevalent since the beginning of time, It’s just the ways of
 This project presents a systematic review of some published research on cyberbullying detection approaches and examine methods to detect hate speech in social media, while distinguishing this from general profanity, and does a comparative study of various Supervised algorithms, including standard, as well as ensemble methods.
 
 # Dataset
--Dataset is obtained from various platforms like Kaggle and merged into a large single Dataset
--Data Cleaning, Preprocessing (Word Tokenization, Stemming, TF-IDF), and Resampling was done before application of any of the Machine Learning algorithms used.
+* Dataset is obtained from various platforms like Kaggle and merged into a large single Dataset.
+* Data Cleaning, Preprocessing (Word Tokenization, Stemming, TF-IDF), and Resampling was done before application of any of the Machine Learning algorithms used.
 
 # Methods Used
-*Logistic Regression
-*Decision Tree Classifier
-*SGD Classifier
-*Linear SVC
-*Multinomial NB
-*Random Forest Classifier
+* Logistic Regression
+* Decision Tree Classifier
+* SGD Classifier
+* Linear SVC
+* Multinomial NB
+* Random Forest Classifier
 
 # Result
 The evaluation shows that SGD Classifier and Logistic Regression worked very well as our Dataset is large and our goal is based on Classification.
